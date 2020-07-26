@@ -3,7 +3,16 @@
 // stringPatternSearch("lollipop", "lol") --> 1
 // stringPatternSearch("lolol", "lol") --> 2
 
-function stringPatternSearch(text, pattern) {}
+function stringPatternSearch(text, pattern) {
+  let count = 0
+  for (let i = 0; i <= text.length - pattern.length; i++) {
+    if (text.substring(i, i + pattern.length) === pattern) { 
+      count++
+    }
+  }
+
+  return count
+}
 
 // _________ _______  _______ _________   _______  _______  _______  _______  _______
 // \__   __/(  ____ \(  ____ \\__   __/  (  ____ \(  ___  )(  ____ \(  ____ \(  ____ \
