@@ -1,5 +1,6 @@
 # Algorithms
-My solutions for KodingKevin's algorithms and data structure course.  
+>My solutions for KodingKevin's algorithms and data structure course.    
+
 To see the playlist of the course, check out it on [Kevin's](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3) channel.
 
 ## List of algorithms
