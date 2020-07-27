@@ -16,6 +16,7 @@ To see the playlist of the course, check out it on [Kevin's](https://www.youtube
 - [Pyramid](https://github.com/lutilipe/Algorithms/blob/master/pyramid/index.js)
 - [ReverseInt](https://github.com/lutilipe/Algorithms/blob/master/reverseInt/index.js)
 - [ReverseString](https://github.com/lutilipe/Algorithms/blob/master/reverseString/index.js)
+- [Sorting](https://github.com/lutilipe/Algorithms/blob/master/sorting/index.js)
 - [Steps](https://github.com/lutilipe/Algorithms/blob/master/steps/index.js)
 - [StringPatternSearch](https://github.com/lutilipe/Algorithms/blob/master/stringPatternSearch/index.js)
 - [Vowels](https://github.com/lutilipe/Algorithms/blob/master/vowels/index.js)
