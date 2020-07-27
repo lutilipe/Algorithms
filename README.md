@@ -12,6 +12,7 @@ To see the playlist of the course, check out it on [Kevin's](https://www.youtube
 - [FizzBuzz](https://github.com/lutilipe/Algorithms/blob/master/fizzbuzz/index.js)
 - [LinearSearch](https://github.com/lutilipe/Algorithms/blob/master/linearSearch/index.js)
 - [MaxChar](https://github.com/lutilipe/Algorithms/blob/master/maxChar/index.js)
+- [Merge](https://github.com/lutilipe/Algorithms/blob/master/merge/index.js)
 - [Palindrome](https://github.com/lutilipe/Algorithms/blob/master/palindrome/index.js)
 - [Pyramid](https://github.com/lutilipe/Algorithms/blob/master/pyramid/index.js)
 - [ReverseInt](https://github.com/lutilipe/Algorithms/blob/master/reverseInt/index.js)
