@@ -3,7 +3,7 @@
 
 To see the playlist of the course, check out it on [Kevin's](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3) channel.
 
-## List of algorithms
+## List of Algorithms
 - [Anagrams](https://github.com/lutilipe/Algorithms/blob/master/anagrams/index.js)
 - [BinarySearch](https://github.com/lutilipe/Algorithms/blob/master/binarySearch/index.js)
 - [CaesarCipher](https://github.com/lutilipe/Algorithms/blob/master/caesarCipher/index.js)
@@ -22,5 +22,7 @@ To see the playlist of the course, check out it on [Kevin's](https://www.youtube
 - [StringPatternSearch](https://github.com/lutilipe/Algorithms/blob/master/stringPatternSearch/index.js)
 - [Vowels](https://github.com/lutilipe/Algorithms/blob/master/vowels/index.js)
 
+## List of Data Structures
+- [LikedList](https://github.com/lutilipe/Algorithms/blob/master/linked-list/index.js)
 ##  
 **Hope you like!** :smile:
