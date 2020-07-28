@@ -23,6 +23,6 @@ To see the playlist of the course, check out it on [Kevin's](https://www.youtube
 - [Vowels](https://github.com/lutilipe/Algorithms/blob/master/vowels/index.js)
 
 ## List of Data Structures
-- [LikedList](https://github.com/lutilipe/Algorithms/blob/master/linked-list/index.js)
+- [LinkedList](https://github.com/lutilipe/Algorithms/blob/master/linked-list/index.js)
 ##  
 **Hope you like!** :smile:
