@@ -8,17 +8,41 @@
 // q.enqueue(3);
 // expect(q.dequeue()).toEqual(1);
 
+class Node {
+	constructor(data, next) {
+		this.data = data
+		this.next = next
+	}
+}
+
 class Queue {
 	constructor() {
-		this.data = []
+		this.head = null
+		this.tail = null
 	}
 
-	enqueue(val) {
-		this.data.unshift(val)
+	enqueue(data) {
+		const newNode = new Node (data)
+
+		if (this.tail) {
+			this.tail.next = newNode
+		}
+
+		this.tail = newNode
+
+		if (!this.head) {
+			this.head = newNode
+		}
 	}
 
 	dequeue() {
-		return this.data.pop()
+		const data = this.head.data
+		this.head = this.head.next
+		if (!this.head) {
+			this.tail = null
+		}
+
+		return data
 	}
 }
 
