@@ -24,5 +24,6 @@ To see the playlist of the course, check out it on [Kevin's](https://www.youtube
 
 ## List of Data Structures
 - [LinkedList](https://github.com/lutilipe/Algorithms/blob/master/linked-list/index.js)
+- [Queue](https://github.com/lutilipe/Algorithms/blob/master/queue/index.js)
 ##  
 **Hope you like!** :smile:

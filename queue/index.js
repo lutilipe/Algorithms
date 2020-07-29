@@ -9,7 +9,17 @@
 // expect(q.dequeue()).toEqual(1);
 
 class Queue {
-	constructor() {}
+	constructor() {
+		this.data = []
+	}
+
+	enqueue(val) {
+		this.data.unshift(val)
+	}
+
+	dequeue() {
+		return this.data.pop()
+	}
 }
 
 // _________ _______  _______ _________   _______  _______  _______  _______  _______
