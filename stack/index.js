@@ -9,7 +9,17 @@
 //   s.pop(); // returns 2
 
 class Stack {
-	constructor() {}
+	constructor() {
+		this.data = []
+	}
+
+	push(val) {
+		this.data.push(val)
+	}
+
+	pop() {
+		return this.data.pop()
+	}
 }
 
 // _________ _______  _______ _________   _______  _______  _______  _______  _______

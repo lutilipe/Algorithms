@@ -36,6 +36,8 @@ class Queue {
 	}
 
 	dequeue() {
+		if (!this.head) return null
+
 		const data = this.head.data
 		this.head = this.head.next
 		if (!this.head) {
