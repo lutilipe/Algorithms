@@ -1,7 +1,7 @@
 # Algorithms
 >My solutions for KodingKevin's algorithms and data structure course.    
 
-To see the playlist of the course, check out it on [Kevin's](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3) channel.
+To see the playlist of the course, check it out on [Kevin's](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3) channel.
 
 ## List of Algorithms
 - [Anagrams](https://github.com/lutilipe/Algorithms/blob/master/anagrams/index.js)
